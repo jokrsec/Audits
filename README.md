@@ -2,6 +2,7 @@
 
 ## About Me
 * I’m an Independent Smart Contract Security Researcher.
+* Senior watson at Sherlock
 * Sigma Prime Intern
 * Currently doing audit contests in sherlock, c4, cantina and codehawks.
 * Formal Verification contests @certora.
