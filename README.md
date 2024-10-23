@@ -17,9 +17,9 @@ For private audits or security consulting, please reach out on:
 | - | - | - | - | - | 
 | Perpetual | Derivatives | [Top 5](https://audits.sherlock.xyz/contests/219) | [📄](https://audits.sherlock.xyz/contests/219/report)
 | Deeper | Lending | Top 1 |
-| Jala swap | AMM | Top 5th |
-| 3DNS | Tokenized Domains | Top 6th | 
-| Ark Project Bridge | NFT Bridge | Top 6th |
+| Jala swap | AMM | Top 5 |
+| 3DNS | Tokenized Domains | Top 6 | 
+| Ark Project Bridge | NFT Bridge | Top 6 |
 | Renzo | Restaking |
 | Tokemak | Yield | 
 
