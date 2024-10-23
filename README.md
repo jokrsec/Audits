@@ -13,7 +13,7 @@ For private audits or security consulting, please reach out on:
 - Discord - @jokrsec
 
 ## Competitive audits
-| Contest | Type | Date | Leaderboard | Report | 
+| Contest | Type | Leaderboard | Report | 
 | - | - | - | - | - | 
 | Perpetual | Derivatives | [Top 5](https://audits.sherlock.xyz/contests/219) | [📄](https://audits.sherlock.xyz/contests/219/report)
 | Deeper | Lending | Top 1 |
