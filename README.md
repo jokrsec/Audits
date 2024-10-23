@@ -14,7 +14,7 @@ For private audits or security consulting, please reach out on:
 
 ## Competitive audits
 | Contest | Type | Leaderboard | Report | 
-| - | - | - | - | - | 
+| - | - | - | - |
 | Perpetual | Derivatives | [Top 5](https://audits.sherlock.xyz/contests/219) | [📄](https://audits.sherlock.xyz/contests/219/report)
 | Deeper | Lending | Top 1 |
 | Jala swap | AMM | Top 5 |
@@ -22,6 +22,7 @@ For private audits or security consulting, please reach out on:
 | Ark Project Bridge | NFT Bridge | Top 6 |
 | Renzo | Restaking |
 | Tokemak | Yield | 
+| Certora contests | Formal verification | Top 15 | [Leaderboard](https://www.certora.com/leaderboard) |
 
 
 
