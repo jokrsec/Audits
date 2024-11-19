@@ -25,5 +25,7 @@ For private audits or security consulting, please reach out on:
 | Tokemak | Yield | 
 | Certora contests | Formal verification | Top 15 | [Leaderboard](https://www.certora.com/leaderboard) |
 
-
-
+## Private engagements
+| Protocol | Report | 
+| - | - |
+| [bitcoin.com](https://www.bitcoin.com/) verse NFT | |
