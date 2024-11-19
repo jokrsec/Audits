@@ -28,4 +28,4 @@ For private audits or security consulting, please reach out on:
 ## Private engagements
 | Protocol | Report | 
 | - | - |
-| [bitcoin.com](https://www.bitcoin.com/) verse NFT | |
+| [bitcoin.com](https://www.bitcoin.com/) verse NFT | [report](https://github.com/jokrsec/Audits/blob/main/verse-nft-audit-report-2.pdf) |
