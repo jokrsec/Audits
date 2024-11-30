@@ -12,6 +12,7 @@
 For private audits or security consulting, please reach out on:
 - Twitter  - [@jokrsec](https://x.com/jokrsec)
 - Discord - @jokrsec
+- Telegram - @jokrsec
 
 ## Competitive audits
 | Contest | Type | Leaderboard | Report | 
