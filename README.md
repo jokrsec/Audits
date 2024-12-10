@@ -17,7 +17,8 @@ For private audits or security consulting, please reach out on:
 ## Competitive audits
 | Contest | Type | Leaderboard | Report | 
 | - | - | - | - |
-| Perpetual | Derivatives | [Top 5](https://audits.sherlock.xyz/contests/219) | [📄](https://audits.sherlock.xyz/contests/219/report)
+| Avantis Finance | Perps and Leverage | [Top 2](https://audits.sherlock.xyz/contests/485/leaderboard) |
+| Perpetual | Derivatives | [Top 5](https://audits.sherlock.xyz/contests/219/leaderboard) | [📄](https://audits.sherlock.xyz/contests/219/report)
 | Deeper | Lending | Top 1 |
 | Jala swap | AMM | Top 5 |
 | 3DNS | Tokenized Domains | Top 6 | 
